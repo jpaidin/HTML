@@ -1,3 +1,2 @@
-# HTML
 # Primeiro repositorio
-# Tema Barbearia
+# A ideia e criar um site para uma barbearia
