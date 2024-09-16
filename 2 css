@@ -1,0 +1,8 @@
+Incio CSS
+
+body{
+    background-color: rgb(158, 129, 186);
+    color:black
+    
+
+}
