@@ -1,4 +1,14 @@
-Criaçao do Site Art Buque 
+Projeto do site Art Buquê
 
-link : http://127.0.0.1:5500/trabalho.html
+Objetivo
+Criar um site responsvio contendo informações sobre o produto.
+
+Tecnologias ultilizadas
+HTML e CSS
+
+
+
+
+
+
 
